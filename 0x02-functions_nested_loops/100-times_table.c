@@ -7,9 +7,6 @@
  *
  * @n: integer for which the times table will be printed
  *
- *
- *
- * Description: prints the times table
  */
 
 void print_times_table(int n)
