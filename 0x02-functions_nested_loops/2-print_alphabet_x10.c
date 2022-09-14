@@ -7,7 +7,7 @@
  *
  * Description: prints 10 times
  *
- * Return: Always(0).
+ * Return: 0 (success)
  */
 
 void print_alphabet_x10(void)
@@ -39,5 +39,5 @@ void print_alphabet_x10(void)
 		_putchar('\n');
 
 	}
-
+	return (0);
 }
