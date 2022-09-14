@@ -9,7 +9,6 @@
  *
  * Description: prints all lowercase letters
  *
- * Return: Always(0).
  *
  */
 
