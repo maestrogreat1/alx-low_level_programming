@@ -8,7 +8,6 @@
  *
  * Description: prints a list of time
  *
- * Return: Always 0 (success)
  */
 
 void jack_bauer(void)
