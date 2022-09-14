@@ -6,7 +6,7 @@
  *
  * Description: multiples between 0 and 1024
  *
- * Return: Always(0) Success
+ * Return: Always 0 (Success)
  *
  */
 
