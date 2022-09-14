@@ -3,10 +3,7 @@
 
 
 /**
- *
  * print_alphabet - print alphabet of letters
- *
- *
  *
  * Return: void
  *
