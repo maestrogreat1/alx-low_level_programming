@@ -10,7 +10,6 @@
  *
  *
  * Description: prints the times table
- * Return: void.
  */
 
 void print_times_table(int n)
